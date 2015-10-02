@@ -1,0 +1,11 @@
+body {font-family:"Cambria"; margin:0; padding:0;text-align:center; background: #2E64FE;} 
+ 
+ #content {font-family:"Cambria";text-align:left; margin:auto; width:100%; height:100%;} 
+ 
+ #cabecera {font-family:"Cambria";width:100%;height:15%;background-color:#2E64FE;} 
+ 
+ #menu {font-family:"Cambria";width:20%; height:75%; float:left; background-color:#CEE3F6;} 
+ 
+ #contenido {font-family:"Cambria";width:80%;height:75%;float:left;} 
+ 
+ #pie {font-family:"Cambria";width:100%;height:15%;} 
